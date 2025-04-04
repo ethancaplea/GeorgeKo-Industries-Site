@@ -1,9 +1,9 @@
 <template>
-        <!-- Section 1 -->
-        <div class="relative">
+    <!-- Section 1 -->
+    <div class="relative">
         <!-- The background -->
         <div class="flex absolute inset-0">
-            <img src="assets/images/machine.jpg" alt="background" class="basis-1/2 object-cover"/>
+            <img src="assets/images/machine.jpg" alt="background" class="basis-1/2 object-cover" />
             <div class="basis-1/2 bg-blue-100">
                 TEST TEST
             </div>
